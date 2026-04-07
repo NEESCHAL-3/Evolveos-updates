@@ -1,14 +1,6 @@
 {
-  "response": [
-    {
-      "datetime": 1775556000,
-      "filename": "EvolveOS-Update-Signed.zip",
-      "id": "evolveos_rodin_v1_signed",
-      "romtype": "unofficial",
-      "size": 4790393426,
-      "url": "https://dl.dropboxusercontent.com/scl/fi/jru8u7uqyaifkte1d00o4/EvolveOS-Update-Signed.zip?rlkey=0ikibc2vnc4lc2hrac3v7g9o1&st=dq448jop&dl=1",
-      "version": "1.0",
-      "hash": "sRX657ry4dLg6TCKJKV9s1S6h4P/PXygxSRoFHfYPbs="
-    }
-  ]
+  "versionName": "EvolveOS 1.0 (Signed)",
+  "changelog": "• Initial Signed Release for Rodin\n• Fixed OpenSSL and Quota issues\n• Based on HyperOS Global\n• Repacked and Signed by Neeschal",
+  "size": "4.5 GB",
+  "downloadUrl": "https://dl.dropboxusercontent.com/scl/fi/jru8u7uqyaifkte1d00o4/EvolveOS-Update-Signed.zip?rlkey=0ikibc2vnc4lc2hrac3v7g9o1&st=dq448jop&dl=1"
 }
